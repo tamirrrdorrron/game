@@ -28,3 +28,6 @@ action = input('> ')
 
 if action == 'enter house':
     print('you have entered the house. there are a few rooms in the house.')
+
+
+#test commit
